@@ -1,5 +1,11 @@
 [
   "obsidian-git",
   "code-block-plugin",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "table-editor-obsidian",
+  "beautitab",
+  "calendar",
+  "editing-toolbar",
+  "obsidian-icon-folder",
+  "dataview"
 ]
