@@ -88,6 +88,31 @@
               "icon": "lucide-bookmark",
               "title": "Закладки"
             }
+          },
+          {
+            "id": "972a3cb60526b122",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "287055e2eab26823",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Лінійна алгебра/Вектори.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Вміст Вектори"
+            }
           }
         ]
       }
@@ -152,21 +177,6 @@
             }
           },
           {
-            "id": "287055e2eab26823",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Лінійна алгебра/Вектори.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Вміст Вектори"
-            }
-          },
-          {
             "id": "69a50d8c06b6b9aa",
             "type": "leaf",
             "state": {
@@ -175,19 +185,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "972a3cb60526b122",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
