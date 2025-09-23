@@ -1,5 +1,6 @@
 {
-  "attachmentFolderPath": "res",
+  "attachmentFolderPath": "_res",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "promptDelete": false
 }
