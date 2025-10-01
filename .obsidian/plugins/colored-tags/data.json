@@ -1,0 +1,21 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "вектор": 1,
+    "матриця": 2,
+    "python": 3,
+    "афінні_перетворення": 4,
+    "numpy": 5,
+    "операції_над_матрицями": 6
+  },
+  "_version": 3
+}

@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44a35c80999b4863",
+        "id": "c16c1cc87b6322b1",
         "type": "tabs",
         "children": [
           {
-            "id": "77e9127654b247de",
+            "id": "b8bc661ee4be1437",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "beautitab-react-view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "New tab"
             }
           }
         ]
@@ -29,6 +28,7 @@
       {
         "id": "d5978c2077044bc9",
         "type": "tabs",
+        "dimension": 69.63927855711422,
         "children": [
           {
             "id": "066176bc3d672c90",
@@ -71,16 +71,6 @@
             }
           },
           {
-            "id": "972a3cb60526b122",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "287055e2eab26823",
             "type": "leaf",
             "state": {
@@ -96,6 +86,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "40136c9aa80f4606",
+        "type": "tabs",
+        "dimension": 30.360721442885776,
+        "children": [
+          {
+            "id": "706e30a5ff3e4bbe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,6 +115,7 @@
       {
         "id": "a9ddd8fc0fe1bf86",
         "type": "tabs",
+        "dimension": 67.01923076923076,
         "children": [
           {
             "id": "a272617c74bec3b8",
@@ -149,7 +157,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -169,6 +177,23 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "ffe0e5d438bf590b",
+        "type": "tabs",
+        "dimension": 32.98076923076923,
+        "children": [
+          {
+            "id": "972a3cb60526b122",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +212,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77e9127654b247de",
+  "active": "b8bc661ee4be1437",
   "lastOpenFiles": [
     "Лінійна алгебра/Матриці/Афінні перетворення/Обертання.md",
     "Лінійна алгебра/Матриці/Афінні перетворення/Зсув.md",
